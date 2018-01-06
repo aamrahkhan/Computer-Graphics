@@ -1,0 +1,34 @@
+﻿Build started 9/5/2016 10:28:08 PM.
+     1>Project "E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\CS452Assign1\CS452Assign1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\CS452Assign1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\CS452Assign1.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt morphing.cpp
+         morphing.cpp
+     1>morphing.cpp(63): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>morphing.cpp(64): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>morphing.cpp(65): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>morphing.cpp(70): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>morphing.cpp(72): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\Release\CS452Assign1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib OpenGL32.lib "E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\CS452Assign1\\FreeImage\FreeImage.lib" /MANIFEST /ManifestFile:"Release\CS452Assign1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\Release\CS452Assign1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\Release\CS452Assign1.lib" /MACHINE:X86 Release\CS452Assign1.res
+         Release\CS452Assign1.obj
+         Release\morphing.obj
+         Release\stdafx.obj
+         Generating code
+     1>e:\computer graphics class\cs452_assign1_skelcode\cs452assign1\cs452assign1\cs452assign1.cpp(101): warning C4715: 'WndProc' : not all control paths return a value
+         Finished generating code
+         CS452Assign1.vcxproj -> E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\Release\CS452Assign1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\Release\CS452Assign1.exe;#1" /manifest Release\CS452Assign1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\CS452Assign1.unsuccessfulbuild".
+         Touching "Release\CS452Assign1.lastbuildstate".
+     1>Done Building Project "E:\Computer Graphics class\CS452_Assign1_SkelCode\CS452Assign1\CS452Assign1\CS452Assign1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.60
