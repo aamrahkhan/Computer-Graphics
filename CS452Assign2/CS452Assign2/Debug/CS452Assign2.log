@@ -1,0 +1,18 @@
+﻿  myraster.cpp
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(143): warning C4101: 'y1': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(143): warning C4101: 'x1': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(143): warning C4101: 'y0': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(227): warning C4101: 'pentagon': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(143): warning C4101: 'x0': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(228): warning C4101: 'temp': unreferenced local variable
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(623): warning C4018: '<': signed/unsigned mismatch
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(629): warning C4018: '<': signed/unsigned mismatch
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(638): warning C4018: '<': signed/unsigned mismatch
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(647): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(648): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(657): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(658): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(662): warning C4018: '<': signed/unsigned mismatch
+e:\computer graphics class\assignment 2\cs452assign2\cs452assign2\myraster.cpp(665): warning C4018: '<': signed/unsigned mismatch
+  CS452Assign2.vcxproj -> E:\Computer Graphics class\Assignment 2\CS452Assign2\Debug\CS452Assign2.exe
+  CS452Assign2.vcxproj -> E:\Computer Graphics class\Assignment 2\CS452Assign2\Debug\CS452Assign2.pdb (Full PDB)
